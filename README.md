@@ -1,4 +1,3 @@
-## About
 A Vietnamese from Bien Hoa city, Dong Nai, Vietnam
 
 ## Current
