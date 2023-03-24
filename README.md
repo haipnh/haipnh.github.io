@@ -1,4 +1,4 @@
-A Vietnamese from Bien Hoa city, Dong Nai, Vietnam
+A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 
 ## Current
 - Pursue **Master's degree** in Electrical Engineering at National Formosa University, Taiwan. Expected to graduate in July 2023.
