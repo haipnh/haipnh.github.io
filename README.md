@@ -22,7 +22,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 
 ## Education
 - National Formosa University
-  - Master's degree, Electrical Engineering, 2021 - 2023.
+  - [Master's degree, Electrical Engineering, 2021 - 2023.](https://github.com/haipnh/NFU-EE-Master)
   - Activities: Research Assistant & TA at Digital System Design Lab; Leader of Vietnamese Graduate Student Group at NFU.
 - Ho Chi Minh City University of Technology and Education
   - Bachelor's degree, Computer Engineering (High Quality Training), 2015 - 2019.
