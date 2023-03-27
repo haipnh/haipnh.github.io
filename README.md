@@ -12,10 +12,10 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
   - Work on Embedded Systems & FPGA-based deep learning application projects; Teaching Assistant; Technical Trainer of FPGA-based ML/AI Application Design Contest for Students.
 - **Platform Validation Engineer**, Ampere Computing, Vietnam.
   - Mar 2021 - Oct 2021 · 8 mos
-  - Work on System Level Testing Framework to screen CPU; Collaborate with International Stakeholders.
+  - Work on **System Level Testing Framework** to screen CPU; Collaborate with International Stakeholders.
 - **Software Engineer**, Ban Vien Company, Vietnam.
   - Sep 2019 - Feb 2021 · 1 yr 6 mos
-  - Work on Automotive System-on-Chips Modeling project.
+  - Work on **Automotive System-on-Chips Modeling for Automated Driving** project.
 - **Intern**, Renesas Design Vietnam Co., Ltd, Vietnam.
   - Feb 2019 - May 2019 · 4 mos
   - Work on Acceptance Testing for AUTOSAR MCAL.
