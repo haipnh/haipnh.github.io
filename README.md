@@ -32,6 +32,14 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 - [Algorithmic Toolbox, University of California San Diego & Coursera](https://www.coursera.org/account/accomplishments/verify/PTXGC8TYT3TT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Image Processing with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118&)
 
+## Awards
+- Winner of 2018 Sunflower Mission Engineering and Technology Scholarship Awards
+
+![2018_SunflowerMission-E&T-Scholarship_1](./assets/images/2018_SunflowerMission-E&T-Scholarship_1.png)
+
+![2018_SunflowerMission-E&T-Scholarship_2](./assets/images/2018_SunflowerMission-E&T-Scholarship_2.jpg)
+
+
 ## Personality
 - Hobbies: movies; music; trekking; work-out; reading; photos; arts; sight-seeing.
 
