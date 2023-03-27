@@ -41,6 +41,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 
 
 ## Personality
+- a Catholic.
 - Hobbies: movies; music; trekking; work-out; reading; photos; arts; sight-seeing.
 
 ## Contacts
