@@ -39,6 +39,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 
 ![2018_SunflowerMission-E&T-Scholarship_2](./assets/images/2018_SunflowerMission-E&T-Scholarship_2.jpg)
 
+- Several Semester scholarships for individuals with excellent academic results.
 
 ## Personality
 - a Catholic.
