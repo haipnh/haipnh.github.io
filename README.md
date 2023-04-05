@@ -21,10 +21,10 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
   - Work on Acceptance Testing for AUTOSAR MCAL.
 
 ## Education
-- National Formosa University
+- National Formosa University (NFU)
   - [Master's degree, Electrical Engineering, 2021 - 2023.](https://github.com/haipnh/NFU-EE-Master)
   - Activities: Research Assistant & TA at Digital System Design Lab; Leader of Vietnamese Graduate Student Group at NFU.
-- Ho Chi Minh City University of Technology and Education
+- Ho Chi Minh City University of Technology and Education (HCMUTE)
   - Bachelor's degree, Computer Engineering (High Quality Training), 2015 - 2019.
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training.
 
@@ -39,7 +39,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 
 ![2018_SunflowerMission-E&T-Scholarship_2](./assets/images/2018_SunflowerMission-E&T-Scholarship_2.jpg)
 
-- Several Semester scholarships for individuals with excellent academic results.
+- Several Semester scholarships for individuals with excellent academic results, by Faculty for High Quality Training, HCMUTE.
 
 ## Personality
 - a Catholic.
