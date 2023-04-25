@@ -9,7 +9,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 ## Experience
 - **Research Assistant**, Digital System Design Lab, National Formosa University, Taiwan.
   - Jan 2022 - Present
-  - Work on Embedded Systems & FPGA-based deep learning application projects; Teaching Assistant; Technical Trainer of FPGA-based ML/AI Application Design Contest for Students.
+  - Work on Embedded Systems & FPGA-based deep learning application projects; Conduct literature review for research funding proposals; Teaching Assistant; Technical Trainer of FPGA-based ML/AI Application Design Contest for Students; Contribute to several open-source FPGA repositories of AMD Xilinx.
 - **Platform Validation Engineer**, Ampere Computing, Vietnam.
   - Mar 2021 - Oct 2021 · 8 mos
   - Work on **System Level Testing Framework** to screen CPU; Collaborate with International Stakeholders.
