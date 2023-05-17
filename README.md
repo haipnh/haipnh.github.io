@@ -7,24 +7,24 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 - **Leader** of Vietnamese Graduate Student Group at NFU.
 
 ## Experience
-- **Research Assistant**, Digital System Design Lab, National Formosa University, Taiwan.
+- **Research Assistant**, [Digital System Design Lab, National Formosa University, Taiwan](http://sparc.nfu.edu.tw/~ccsun/).
   - Jan 2022 - Present
   - Work on Embedded Systems & FPGA-based deep learning application projects; Linux system administrator of Lab's servers; Conduct literature review for research funding proposals; Teaching Assistant; Technical Trainer of FPGA-based ML/AI Application Design Contest for Students; Contribute to several open-source FPGA repositories of AMD Xilinx.
-- **Platform Validation Engineer**, Ampere Computing, Vietnam.
+- **Platform Validation Engineer**, [Ampere Computing, Vietnam](https://amperecomputing.com/en/).
   - Mar 2021 - Oct 2021 · 8 mos
   - Work on **System Level Testing Framework** to screen CPU; Collaborate with International Stakeholders.
-- **Software Engineer**, Ban Vien Company, Vietnam.
+- **Software Engineer**, [Ban Vien Company, Vietnam](https://banvien.com/).
   - Sep 2019 - Feb 2021 · 1 yr 6 mos
   - Work on **Automotive System-on-Chips Modeling for Automated Driving** project.
-- **Intern**, Renesas Design Vietnam Co., Ltd, Vietnam.
+- **Intern**, [Renesas Design Vietnam Co., Ltd, Vietnam](https://vietnam.renesas.com/).
   - Feb 2019 - May 2019 · 4 mos
   - Work on Acceptance Testing for AUTOSAR MCAL.
 
 ## Education
-- National Formosa University (NFU)
+- [National Formosa University (NFU)](https://www.nfu.edu.tw/)
   - [Master's degree, Electrical Engineering, 2021 - 2023.](https://github.com/haipnh/NFU-EE-Master)
-  - Activities: Research Assistant & TA at Digital System Design Lab; Leader of Vietnamese Graduate Student Group at NFU.
-- Ho Chi Minh City University of Technology and Education (HCMUTE)
+  - Activities: Research Assistant & TA at [Digital System Design Lab](http://sparc.nfu.edu.tw/~ccsun/); Leader of Vietnamese Graduate Student Group at NFU.
+- [Ho Chi Minh City University of Technology and Education (HCMUTE)](https://en.hcmute.edu.vn/)
   - Bachelor's degree, Computer Engineering (High Quality Training), 2015 - 2019.
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training.
 
@@ -36,8 +36,6 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 - Winner of 2018 Sunflower Mission Engineering and Technology Scholarship Awards
 
 ![2018_SunflowerMission-E&T-Scholarship_1](./assets/images/2018_SunflowerMission-E&T-Scholarship_1.png)
-
-![2018_SunflowerMission-E&T-Scholarship_2](./assets/images/2018_SunflowerMission-E&T-Scholarship_2.jpg)
 
 - Several Semester scholarships for individuals with excellent academic results, by Faculty for High Quality Training, HCMUTE.
 
