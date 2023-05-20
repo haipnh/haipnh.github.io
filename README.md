@@ -29,8 +29,9 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training.
 
 ## Licenses & certifications
-- [Algorithmic Toolbox, University of California San Diego & Coursera](https://www.coursera.org/account/accomplishments/verify/PTXGC8TYT3TT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Image Processing with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118&)
+- [MATLAB Programming Techniques, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1386a2d3-c5a2-4c38-9ebe-bdc46a7d9c50)
+- [Algorithmic Toolbox, University of California San Diego & Coursera](https://www.coursera.org/account/accomplishments/verify/PTXGC8TYT3TT)
+- [Image Processing with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118)
 
 ## Awards
 - Winner of 2018 Sunflower Mission Engineering and Technology Scholarship Awards
