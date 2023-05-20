@@ -29,8 +29,9 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training.
 
 ## Licenses & certifications
-- [MATLAB Programming Techniques, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1386a2d3-c5a2-4c38-9ebe-bdc46a7d9c50)
 - [Algorithmic Toolbox, University of California San Diego & Coursera](https://www.coursera.org/account/accomplishments/verify/PTXGC8TYT3TT)
+- [Introduction to Linear Algebra with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=06fed09a-0d57-4c86-a33e-ca0b886ac644)
+- [MATLAB Programming Techniques, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1386a2d3-c5a2-4c38-9ebe-bdc46a7d9c50)
 - [Image Processing with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118)
 
 ## Awards
