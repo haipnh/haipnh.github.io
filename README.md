@@ -34,6 +34,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 - [Image Processing with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118)
 - [Introduction to Linear Algebra with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=06fed09a-0d57-4c86-a33e-ca0b886ac644)
 - [Introduction to Statistical Methods with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bbbaf7f3-8372-41ac-9181-8d0809a7b90d)
+- [Introduction to Symbolic Math with MATLAB, MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e0c84c73-8fa8-4dde-8c21-a51a5e961a4e)
 
 ## Awards
 - Winner of 2018 Sunflower Mission Engineering and Technology Scholarship Awards
