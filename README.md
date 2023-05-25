@@ -9,7 +9,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam.
 ## Experience
 - **Research Assistant**, [Digital System Design Lab, National Formosa University, Taiwan](http://sparc.nfu.edu.tw/~ccsun/).
   - Jan 2022 - Present
-  - Work on several Industry–Academia Collaborative R&D Projects employing Embedded Systems & FPGA-based deep learning; Linux system administrator of Lab's servers; Conduct literature review for research funding proposals; Teaching Assistant; Technical Trainer of FPGA-based ML/AI Application Design Contest for Students; Contribute to several open-source FPGA repositories of AMD Xilinx.
+  - Work on several [Industry–Academia Collaborative R&D Projects employing Embedded Systems & FPGA-based deep learning](http://sparc.nfu.edu.tw/~ccsun/Project.html); Linux system administrator of Lab's servers; Conduct literature review for research funding proposals; Teaching Assistant; [Technical Trainer of FPGA-based ML/AI Application Design Contest for Students](https://github.com/DSDL-EE/PYNQ-ZU_Tutorial); Contribute to several open-source FPGA repositories of AMD Xilinx.
 - **Platform Validation Engineer**, [Ampere Computing, Vietnam](https://amperecomputing.com/en/).
   - Mar 2021 - Oct 2021 · 8 mos
   - Work on **System Level Testing Framework** to screen CPU; Collaborate with International Stakeholders.
