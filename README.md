@@ -27,10 +27,13 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 ## Education
 - [National Formosa University (NFU)](https://www.nfu.edu.tw/)
   - [Master of Science, Electrical Engineering, 2021 - 2023.](https://github.com/haipnh/NFU-EE-Master)
+  - Thesis: [A Novel Fog-Free Computer Vision using Improved Dark Channel Prior with High Level Synthesis in FPGA Design](https://hdl.handle.net/11296/kd588m)
   - Advisor: [Prof. Chi-Chia Sun (宋啟嘉)](http://sparc.nfu.edu.tw/~ccsun/AboutPI.html) - [Google Scholar](https://scholar.google.com/citations?user=m2NTdo8AAAAJ)
   - Activities: [Research Assistant & TA at Digital System Design Lab](http://sparc.nfu.edu.tw/~ccsun/); [Leader of Vietnamese Graduate Student Group at NFU](https://raw.githubusercontent.com/haipnh/NFU-EE-Master/master/111-2/leader-of-vietnam_cert.jpg).
 - [Ho Chi Minh City University of Technology and Education (HCMUTE)](https://en.hcmute.edu.vn/)
   - The Degree of Engineer, Computer Engineering Technology (High Quality Training), 2015 - 2020.
+  - Thesis: Design and implement a moving and face-tracking camera
+  - Advisor: M.E. Huynh Hoang Ha
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training.
 
 ## Licenses & certifications
