@@ -1,6 +1,7 @@
 A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical Engineering in Taiwan; Have worked for several companies; Like to solve engineering problems and bring people together.
 
 ## Current
+- Open to work about semiconductor, FPGA & embedded system design/develop in Taiwan, Singapore.
 - Completed **Master of Science in Electrical Engineering** at National Formosa University, Taiwan in August 2023.
 - Former **Research Assistant** at Digital System Design Lab, National Formosa University.
 - Former **Teaching Assistant** in Embedded Systems & AMD-Xilinx FPGA.
