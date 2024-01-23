@@ -28,13 +28,16 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 ## Licenses & certifications
 - Strategic Training Programs
   - Microelectronics, in a part of U.S. – ASEAN Science, Technology, and Innovation Cooperation (STIC), sponsored by U.S. Department of State, Bureau of East Asia Pacific Affairs, the Association of Southeast Asian Nations (ASEAN) and Arizona State University (ASU)
-    - Introduction to Semiconductor Packaging, offered by ASU
-    - Introduction to Materials Science, offered by ASU
-    - Adding Electronics to Rapid Prototypes, offered by ASU
-    - Electrical Properties and Semiconductors, offered by ASU
-    - Prototyping, offered by ASU
+    - Offered by ASU:
+      - Introduction to Semiconductor Packaging
+      - Introduction to Materials Science
+      - Adding Electronics to Rapid Prototypes
+      - Electrical Properties and Semiconductors
+      - Prototyping
+      - Engineering and Product Design Processes
+      - Using Rapid Prototyping in the Engineering Design Process
+      - Random Models, Nested and Split-plot Designs
     - The Foundations of Cybersecurity, offered by University System of Georgia
-    - Design Thinking for Innovation, offered by University of Virginia
 - Specializations
   - [Data Structures and Algorithms Specialization, by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/specialization/KXN4VXDCJ2WZ)
 - Crash Courses
@@ -42,6 +45,10 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
   - [Image Processing with MATLAB, by MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118)
   - [Traffic Sign Classification Using Deep Learning in Python/Keras, by Coursera](https://www.coursera.org/account/accomplishments/verify/9FWF63XAA9WZ)
   - [Object Localization with TensorFlow, by Coursera](https://www.coursera.org/account/accomplishments/verify/RSR4Y3E93JNJ)
+- Business-driven and Problem-solving Courses
+  - Design Thinking for Innovation, offered by University of Virginia
+  - Creative Problem Solving, offered by University of Minnesota
+  - How Do We Manage Climate Change?, offered by University of Colorado Boulder
 
 ## Education
 - [National Formosa University (NFU)](https://www.nfu.edu.tw/)
