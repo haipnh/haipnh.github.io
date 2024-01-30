@@ -27,20 +27,19 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 
 ## Licenses & certifications
 - Strategic Training Programs
-  - STIC Talent Mobility Portal, sponsored by U.S. Department of State's Bureau of East Asian and Pacific Affairs and implemented by Arizona State University (ASU).
-    - Science and Technology Track - Microelectronics
-      - Offered by ASU:
-        - Introduction to Semiconductor Packaging
-        - Introduction to Materials Science
-        - Adding Electronics to Rapid Prototypes
-        - Electrical Properties and Semiconductors
-        - Prototyping
-        - Engineering and Product Design Processes
-        - Using Rapid Prototyping in the Engineering Design Process
-        - Random Models, Nested and Split-plot Designs
-      - The Foundations of Cybersecurity, offered by University System of Georgia
-    - Industry Professional Credentials Track
-      - updating...
+  - STIC Program - Science and Technology Track - Microelectronics
+    - Offered by Arizona State University:
+      - Introduction to Semiconductor Packaging
+      - Introduction to Materials Science
+      - Adding Electronics to Rapid Prototypes
+      - Electrical Properties and Semiconductors
+      - Prototyping
+      - Engineering and Product Design Processes
+      - Using Rapid Prototyping in the Engineering Design Process
+      - Random Models, Nested and Split-plot Designs
+    - The Foundations of Cybersecurity, offered by University System of Georgia
+  - STIC Program - Industry Professional Credentials Track
+    - updating...
 - Specializations
   - [Data Structures and Algorithms Specialization, by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/specialization/KXN4VXDCJ2WZ)
 - Crash Courses
