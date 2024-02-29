@@ -27,25 +27,10 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 
 ## Licenses & certifications
 - Strategic Training Programs
-  - STIC Program - Science and Technology Track - Microelectronics, sponsored by U.S. Department of State, Bureau of East Asia Pacific Affairs, the Association of Southeast Asian Nations (ASEAN)
-    - Offered by Arizona State University:
-      - Introduction to Semiconductor Packaging
-      - Advanced Semiconductor Packaging
-      - Semiconductor Packaging Manufacturing
-      - Introduction to Materials Science
-      - Electrical Properties and Semiconductors
-      - Prototyping
-      - Adding Electronics to Rapid Prototypes
-      - Engineering and Product Design Processes
-      - Using Rapid Prototyping in the Engineering Design Process
-      - Experimental Design Basics
-      - Factorial and Fractional Factorial Designs
-      - Response Surfaces, Mixtures, and Model Building
-      - Random Models, Nested and Split-plot Designs
-    - Others
-      - The Foundations of Cybersecurity, offered by University System of Georgia
-  - STIC Program - Industry Professional Credentials Track
-    - updating...
+  - STIC Program, sponsored by U.S. Department of State, Bureau of East Asia Pacific Affairs, the Association of Southeast Asian Nations (ASEAN)
+    - Science and Technology Track - Microelectronics
+    - Industry Professional Credentials Track
+      - updating...
 - Specializations
   - [Data Structures and Algorithms Specialization, by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/specialization/KXN4VXDCJ2WZ)
 - Crash Courses
