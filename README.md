@@ -36,8 +36,6 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 - Crash Courses
   - [MATLAB Programming Techniques, by MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1386a2d3-c5a2-4c38-9ebe-bdc46a7d9c50)
   - [Image Processing with MATLAB, by MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2027ede6-9351-4c6b-af5b-f0f869462118)
-  - [Traffic Sign Classification Using Deep Learning in Python/Keras, by Coursera](https://www.coursera.org/account/accomplishments/verify/9FWF63XAA9WZ)
-  - [Object Localization with TensorFlow, by Coursera](https://www.coursera.org/account/accomplishments/verify/RSR4Y3E93JNJ)
 - Business-driven and Problem-solving Courses
   - Design Thinking for Innovation, offered by University of Virginia
   - Creative Problem Solving, offered by University of Minnesota
