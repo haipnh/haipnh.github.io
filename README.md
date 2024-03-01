@@ -39,6 +39,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 - Business-driven and Problem-solving Courses
   - Design Thinking for Innovation, offered by University of Virginia
   - Creative Problem Solving, offered by University of Minnesota
+  - Developing Innovative Ideas for New Companies, offered by University of Maryland
   - How Do We Manage Climate Change?, offered by University of Colorado Boulder
 
 ## Education
@@ -50,7 +51,7 @@ A Vietnamese from Bien Hoa city, Dong Nai, Vietnam; Completed MSc in Electrical 
 - [Ho Chi Minh City University of Technology and Education (HCMUTE)](https://en.hcmute.edu.vn/)
   - The Degree of Engineer, Computer Engineering Technology (High Quality Training), 2015 - 2020
   - Thesis: Design and implement a moving and face-tracking camera
-  - Advisor: M.E. Huynh Hoang Ha
+  - Advisor: [M.E. Huynh Hoang Ha](mailto:hahh@hcmute.edu.vn)
   - Activities: Embedded Systems & Real-time Operating Systems Teaching Assistant; Student Counselor of Faculty of High Quality Training
 
 ## Awards
