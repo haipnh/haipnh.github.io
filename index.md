@@ -50,7 +50,7 @@ Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet
 - 2021-2023, Master of Science, Department of Electrical Engineering, [National Formosa University (NFU)](https://www.nfu.edu.tw/), Yunlin, Taiwan
   - Thesis: [A Novel Fog-Free Computer Vision using Improved Dark Channel Prior with High Level Synthesis in FPGA Design](https://hdl.handle.net/11296/kd588m)
   - Advisor: [Prof. Chi-Chia Sun (宋啟嘉)](https://sites.google.com/gs.nfu.edu.tw/ccsun/) - [Google Scholar](https://scholar.google.com/citations?user=m2NTdo8AAAAJ)
-  - Activities: [Research Assistant & TA at Digital System Design Lab](https://sites.google.com/gs.nfu.edu.tw/ccsun/lab-member); [Leader of Vietnamese Student Group at NFU](./assets/images/certs/leader-of-vietnam_nfu.jpg)
+  - Activities: [Research Assistant & TA at Digital System Design Lab](https://sites.google.com/gs.nfu.edu.tw/ccsun/lab-member); [Leader of Vietnamese Student Group at NFU](./assets/img/cert/leader-of-vietnam_nfu.jpg)
 
 - 2015-2020, Bachelor of Science, Computer Engineering Technology (High Quality Training), [University of Technology and Education (HCMUTE)](https://en.hcmute.edu.vn/), Ho Chi Minh city, Vietnam
   - Thesis: Design and implement a face-tracking moving camera
