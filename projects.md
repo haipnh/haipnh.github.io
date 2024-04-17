@@ -9,7 +9,6 @@ Report to: [Prof. Chi-Chia Sun (宋啟嘉)](https://sites.google.com/gs.nfu.edu.
 
 | Completion Date | Project                                                                                |
 |:-----------|:---------------------------------------------------------------------------------------|
-| 2023/08/31 | A High-Throughput Controller IP design in Verilog with AXI Compliance for mmWave 5G Systems |
 | 2023/06/06 | Hands-on PYNQ-ZU Tutorial<br>Available at: [https://github.com/DSDL-EE/PYNQ-ZU_Tutorial](https://github.com/DSDL-EE/PYNQ-ZU_Tutorial) |
 | 2023/04/20 | Accelerate Image Segmentation Using ENet on PYNQ-Enabled FPGAs |
 | 2023/01/18 | Multi MicroBlazes on ZYNQ MPSoC ZCU104 |
