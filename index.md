@@ -23,7 +23,7 @@ Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------|
 | 2023/12 - 2024/++ | **Optimizing Fog Removal for Object Detection on FPGAs** <br> Circuit Design Competition for Smart cities, Ho Chi Minh city, Vietnam  |
 | 2023/06 - 2023/08 | **A High-Throughput Controller IP design in Verilog with AXI Compliance for Beamforming mmWave 5G Systems** <br> Sponsorship: TMYTEK (Taiwan) |
-| 2022/01 - 2023/08 | [Industry-Academic Collaboration Projects During MSc in Taiwan](./projects.html) |
+| 2022/01 - 2023/06 | [Industry-Academic Collaboration Projects During MSc in Taiwan](./projects.html) |
 
 ## Certificates
 
