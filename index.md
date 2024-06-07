@@ -4,6 +4,10 @@ layout: default
 
 Pham is a Vietnamese and completed MS in Taiwan and BS in Vietnam. His major is Computer Engineering.
 
+From May 2024, he's working as a full-time Research Assistant at Universität zu Lübeck - Institut für Technische Informatik (ITI) while pursuing a PhD. 
+
+Last Update: 2024/06/06
+
 Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet-of-Things, System Security, and Image Processing.
 
 [My LinkedIn](https://www.linkedin.com/in/haipnh/)
@@ -12,14 +16,15 @@ Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet
 
 | Date | Project |
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------|
-| 2023/12 - 2024/++ | **Optimizing Fog Removal for Object Detection on FPGAs** <br> Circuit Design Competition for Smart cities, Ho Chi Minh city, Vietnam  |
-| 2023/06 - 2023/08 | **A High-Throughput Controller IP design in Verilog with AXI Compliance for Beamforming mmWave 5G Systems** <br> Sponsor: TMYTEK (Taiwan) |
+| 2023/12 - 2024/05 | **Optimizing Fog Removal for Object Detection on FPGAs** <br> Runner-Up, [The 1st Circuit Design Competition for Smart Cities, Ho Chi Minh city, Vietnam](https://www.facebook.com/ICDesignCompetition)  |
+| 2023/06 - 2023/08 | **A High-Throughput Controller IP design in Verilog with AXI Compliance for Beamforming mmWave 5G Systems** <br> Sponsor: [TMYTEK (Taiwan)](https://tmytek.com/) |
 | 2022/01 - 2023/06 | [Industry-Academic Collaboration Projects During MSc in Taiwan](./projects.html) |
 
 ## Experience
 
 | Date | Position |
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| 2024/05 - Now     | [Institut für Technische Informatik (ITI), Universität zu Lübeck, Germany](https://www.iti.uni-luebeck.de/mitarbeiter/nguyen-hoang-hai-pham-m-sc.html) <br> Research Assistant |
 | 2022/01 - 2023/08 | [Digital System Design Lab, National Formosa University, Taiwan](https://sites.google.com/gs.nfu.edu.tw/ccsun/lab-member/) <br> Research Assistant |
 | 2021/03 - 2021/10 | [Ampere Computing, Vietnam](https://amperecomputing.com/en/) <br> Validation Engineer |
 | 2019/09 - 2021/03 | [Ban Vien Company, Vietnam](https://banvien.com/) <br> Software Engineer |
@@ -27,9 +32,12 @@ Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet
 
 ## Education
 
-- 2021-2023, Master of Science, Department of Electrical Engineering, [National Formosa University (NFU)](https://www.nfu.edu.tw/), Yunlin, Taiwan
+- 2024 - Now, Doktoringenieur (pursuing), [Institut für Technische Informatik (ITI)](https://www.iti.uni-luebeck.de/home.html), [Universität zu Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html), Germany
+  - Advisor: [Prof. Dr.-Ing. Mladen Berekovic](https://www.iti.uni-luebeck.de/mitarbeiter/berekovic.html) - [Google Scholar](https://scholar.google.de/citations?user=70NvAoYAAAAJ)
+
+- 2021-2023, Master of Science, [Department of Electrical Engineering](http://nfuee-e.nfu.edu.tw/bin/home.php), [National Formosa University (NFU)](https://www.nfu.edu.tw/), Taiwan
   - Thesis: [A Novel Fog-Free Computer Vision using Improved Dark Channel Prior with High Level Synthesis in FPGA Design](https://hdl.handle.net/11296/kd588m)
-  - Advisor: [Prof. Chi-Chia Sun (宋啟嘉)](https://sites.google.com/gs.nfu.edu.tw/ccsun/) - [Google Scholar](https://scholar.google.com/citations?user=m2NTdo8AAAAJ)
+  - Advisor: [Prof. Dr.-Ing. Chi-Chia Sun (宋啟嘉)](https://sites.google.com/gs.nfu.edu.tw/ccsun/) - [Google Scholar](https://scholar.google.com/citations?user=m2NTdo8AAAAJ)
   - Activities: [Research Assistant & TA at Digital System Design Lab](https://sites.google.com/gs.nfu.edu.tw/ccsun/lab-member); [Leader of Vietnamese Student Group at NFU](./assets/img/cert/leader-of-vietnam_nfu.jpg)
 
 - 2015-2020, Bachelor of Science, Computer Engineering Technology (High Quality Training), [University of Technology and Education (HCMUTE)](https://en.hcmute.edu.vn/), Ho Chi Minh city, Vietnam
