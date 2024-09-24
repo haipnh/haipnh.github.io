@@ -33,7 +33,6 @@ Research Interests: VLSI, High-Level Synthesis, FPGA, Embedded Systems, Internet
 ## Education
 
 - 2024 - Now, Doktoringenieur (pursuing), [Institut für Technische Informatik (ITI)](https://www.iti.uni-luebeck.de/home.html), [Universität zu Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html), Germany
-  - Advisor: [Prof. Dr.-Ing. Mladen Berekovic](https://www.iti.uni-luebeck.de/mitarbeiter/berekovic.html) - [Google Scholar](https://scholar.google.de/citations?user=70NvAoYAAAAJ)
 
 - 2021-2023, Master of Science, [Department of Electrical Engineering](http://nfuee-e.nfu.edu.tw/bin/home.php), [National Formosa University (NFU)](https://www.nfu.edu.tw/), Taiwan
   - Thesis: [A Novel Fog-Free Computer Vision using Improved Dark Channel Prior with High Level Synthesis in FPGA Design](https://hdl.handle.net/11296/kd588m)
