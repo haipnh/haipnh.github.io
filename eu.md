@@ -28,7 +28,8 @@ Last Update: 2025/11/01
 |:---|:---|
 | 2023/12 - 2024/05 | **Optimizing Fog Removal for Object Detection on FPGAs** <br> Runner-Up, [The 1st Circuit Design Competition for Smart Cities, Ho Chi Minh city, Vietnam](https://www.facebook.com/ICDesignCompetition)  |
 | 2023/06 - 2023/08 | **A High-Throughput Controller IP design in Verilog with AXI Compliance for Beamforming mmWave 5G Systems** <br> Sponsor: [TMYTEK (Taiwan)](https://tmytek.com/) |
-| 2022/01 - 2023/06 | [Industry-Academic Collaboration Projects During MSc in Taiwan](./projects.html) |
+| 2023/05 - 2023/06 | **Hands-on PYNQ-ZU Tutorial** Available at: [https://github.com/DSDL-EE/PYNQ-ZU_Tutorial](https://github.com/DSDL-EE/PYNQ-ZU_Tutorial) |
+| 2022/01 - 2023/05 | [Industry-Academic Collaboration Projects During MSc in Taiwan](./projects.html) |
 
 ## Education
 
