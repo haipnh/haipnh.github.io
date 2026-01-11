@@ -8,7 +8,7 @@ From May 2024, he's working as a full-time Research Assistant at Universität zu
 
 Pham’s academic and research interests bridge both hardware and software domains: System Development, Software Development, Embedded Systems, Internet-of-Things, System Security, Field-Programmable Gate Arrays (FPGA), Hardware Description Language (HDL), High-Level Synthesis (HLS), Image Processing.
 
-Last Update: 2025/11/01
+Last Update: 2026/01/05
 
 [My LinkedIn](https://www.linkedin.com/in/haipnh/)
 
